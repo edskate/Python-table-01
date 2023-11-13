@@ -9,5 +9,3 @@ print("Name:", name)
 print("Age:", age)
 print("Email:", email)
 print("Country:", country)
-
-
